@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.nissmel</groupId>
   <artifactId>try-api</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1</version>
   <name>Try API </name>
   
   <parent>
